@@ -29,11 +29,11 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi" />
 </p>
----
-## 🌟 Featured Projects
-- **EduSync:** Comprehensive LMS with real-time analytics ([Code/Readme](#))
-- **BookSphere:** Cloud book club platform ([Code/Readme](#))
-- **Tesla Sales Prediction:** ML-powered app ([Code/Readme](#))
+
+🌟 Featured Projects
+- EduSync: Comprehensive LMS with real-time analytics ([Code/Readme](#))
+- BookSphere: Cloud book club platform ([Code/Readme](#))
+- Tesla Sales Prediction:** ML-powered app ([Code/Readme](#))
 - More in pinned repositories below...
 ---
 ## 📈 GitHub Stats
