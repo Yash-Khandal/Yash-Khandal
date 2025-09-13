@@ -4,40 +4,74 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+@+Capgemini;Full+Stack+%26+Cloud+Developer;React+.NET+Core+Azure;Automation+Testing+Enthusiast;EdTech+Project+Builder&font=Fira%20Code&center=true&width=440&height=45&color=1B3E88&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+@+Capgemini;Full+Stack+%26+Cloud+Developer;React+•+.NET+Core+•+Azure;Automation+Testing+Enthusiast;EdTech+Project+Builder;Always+Learning+and+Building!&font=Fira%20Code&center=true&width=540&height=40&color=58A6FF&vCenter=true&pause=1000" />
 </p>
 
 ---
 
-🚀 <b>Software Engineer @ Capgemini</b> | <b>Full Stack Developer</b> | <b>Cloud & Automation Enthusiast</b>
+🚀 <b>Software Engineer @ Capgemini</b>  
+👨‍💻 <b>Full Stack | Cloud | Automation Testing | EdTech</b>
 
-- 🌱 Currently working in <b>Test Automation</b>, building cloud-native and education technology solutions.
-- 💡 Experienced with <b>React, .NET Core, Azure, AWS</b>, and building scalable web apps.
-- 🔭 I’m focused on <b>DevOps practices</b>, automation frameworks, and deploying full-stack projects.
-- 🎓 Love learning and sharing knowledge—see my <b>[project portfolio](#)</b> below!
+- 🌱 Currently working in <b>Test Automation</b>, building cloud-native and educational technology solutions.
+- 💡 Experienced with <b>React, .NET Core, Azure, AWS</b>; passionate about scalable apps & DevOps.
+- 🔭 Focused on automation frameworks and deploying robust projects.
+- 🎓 Lifelong learner & knowledge sharer—see my <b>[project portfolio](#)</b> below!
 - 📫 Reach me: <a href="mailto:yashkhandal2003@gmail.com">yashkhandal2003@gmail.com</a>
 
 ---
 
-## 🛠️ Languages & Tools
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![.NET Core](https://img.shields.io/badge/-dotnet-black?style=flat-square&logo=dotnet)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium)
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-dotnet-black?style=flat-square&logo=dotnet" />
+  <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
-- **EduSync:** LMS with real-time analytics ([Code/Readme](#))
+
+- **EduSync:** Comprehensive LMS with real-time analytics ([Code/Readme](#))
 - **BookSphere:** Cloud book club platform ([Code/Readme](#))
-- **Tesla Sales Prediction:** [Code/Readme](#)
-- See my pinned repositories below for more...
+- **Tesla Sales Prediction:** ML-powered app ([Code/Readme](#))
+- More in pinned repositories below...
 
 ---
 
 ## 📈 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Khandal&show_icons=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Khandal&show_icons=true&theme=react" alt="Yash's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Khandal&theme=react" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Khandal&layout=compact&langs_count=7&theme=react" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yash-Khandal&color=blue&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+## 📝 Latest Blog/Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- Replace with blog post workflow or manually add blog/article links -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/yash-khandal-075b50228/)
+- [GitHub](https://github.com/Yash-Khandal)
+- [Email](mailto:yashkhandal2003@gmail.com)
 
 ---
 
