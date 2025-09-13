@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+@+Capgemini;Full+Stack+%26+Cloud+Developer;React+•+.NET+Core+•+Azure;Automation+Testing+Enthusiast;EdTech+Project+Builder;Always+Learning+and+Building!&font=Fira%20Code&center=true&width=540&height=40&color=58A6FF&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+@+Capgemini;Full+Stack+%26+Cloud+Developer;React+.NET+Core+Azure;Automation+Testing+Enthusiast;EdTech+Project+Builder&font=Fira%20Code&center=true&width=440&height=45&color=1B3E88&vCenter=true&pause=1000" />
 </p>
 
 ---
