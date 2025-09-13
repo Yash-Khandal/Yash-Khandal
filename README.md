@@ -39,9 +39,7 @@
 
 ## ✨ Featured Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/5QGcUoNjEykqg/giphy.gif" width="90" alt="Shiny Sparkle" /> 
-</p>
+
 
 <table align="center">
   <tr>
