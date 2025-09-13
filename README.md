@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=✨+Software+Engineer+@+Capgemini+✨;⚡+Full+Stack+%26+Cloud+Developer+⚡;React+.NET+Core+Azure+%F0%9F%92%A5;Automation+Testing+Enthusiast+🛡️;EdTech+Project+Builder+%F0%9F%93%96;Always+Learning+%26+Building!+%F0%9F%92%AF&font=Fira%20Code&center=true&width=520&height=45&color=FFBD39&vCenter=true&pause=1100" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1200&color=FFBD39&center=true&vCenter=true&repeat=true&width=520&lines=%E2%9C%A8+Software+Engineer+%40+Capgemini+%E2%9C%A8;%E2%9A%A1+Full+Stack+%26+Cloud+Developer+%E2%9A%A1;React+.NET+Core+Azure+%F0%9F%92%A5;Automation+Testing+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;EdTech+Project+Builder+%F0%9F%93%96;Always+Learning+%26+Building!+%F0%9F%92%AF" alt="Typing SVG Headline" />
 </p>
+
 
 ---
 
