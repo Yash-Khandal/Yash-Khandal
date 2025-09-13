@@ -4,7 +4,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+@+Capgemini;Full+Stack+%26+Cloud+Developer;React+.NET+Core+Azure;Automation+Testing+Enthusiast;EdTech+Project+Builder&font=Fira%20Code&center=true&width=440&height=45&color=1B3E88&vCenter=true&pause=1000" />
+  <!-- Cartoon Avatar: Replace with any wave GIF or personal cartoon if you wish! -->
+  <img src="https://i.pinimg.com/originals/e9/17/a9/e917a9bbee0c450ed28307c8e3c541fa.gif" width="130" alt="Animated Cartoon Guy Waving" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=✨+Software+Engineer+%40+Capgemini+✨;Full+Stack+%26+Cloud+Developer;React+.NET+Core+Azure;Automation+Testing+Enthusiast;EdTech+Project+Builder;Always+Learning+and+Building!&font=Fira%20Code&center=true&width=460&height=45&color=ffcd1e&vCenter=true&pause=1000" />
 </p>
 
 ---
