@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+@+Capgemini;Full+Stack+%26+Cloud+Developer;React+.NET+Core+Azure;Automation+Testing+Enthusiast;EdTech+Project+Builder&font=Fira%20Code&center=true&width=440&height=45&color=1B3E88&vCenter=true&pause=1000" />
 </p>
----
+
 🚀 <b>Software Engineer @ Capgemini</b>  
 👨‍💻 <b>Full Stack | Cloud | Automation Testing | EdTech</b>
 - 🌱 Currently working in <b>Test Automation</b>, building cloud-native and educational technology solutions.
